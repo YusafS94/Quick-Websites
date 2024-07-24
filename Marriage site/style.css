@@ -1,0 +1,22 @@
+/* ======================================
+
+    Uncheck to make sure CSS is working
+
+    ===================================== */
+/* h1 {
+    color: red;
+} */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header-image {
+  width: 70%;
+}
